@@ -9,7 +9,8 @@ https://github.com/sibashish99/Contact-Management-system
 ## Usage
 ```
 1) install OracleDB & redirect to /src/main/java/com/project/util/DbConnection.java and change username and password as per your username & password.
-2) Create Employee database table : 
+2) Employee database schema 
+
  ID                                                    NOT NULL NUMBER
  FIRSTNAME                                                      VARCHAR2(40)
  LASTNAME                                                       VARCHAR2(40)
