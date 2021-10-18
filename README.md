@@ -8,7 +8,8 @@ https://github.com/sibashish99/Contact-Management-system
 
 ## Usage
 ```
-1) install OracleDB & redirect to /src/main/java/com/project/util/DbConnection.java and change username and password as per your username & password.
+1) install OracleDB & redirect to /src/main/java/com/project/util/DbConnection.java and change 
+username and password as per your username & password.
 2) Employee database schema 
 
  ID                                                    NOT NULL NUMBER
@@ -20,7 +21,8 @@ https://github.com/sibashish99/Contact-Management-system
  BIRTHDATE                                                      DATE
  WEDDINGANNIVERSARY                                             DATE
 
-3) Redirect to target folder & execute the jar file (maven_project-0.0.1-SNAPSHOT-jar-with-dependencies.jar)
+3) Build the project using Maven build .
+4) Redirect to target folder & execute the jar file (maven_project-0.0.1-SNAPSHOT-jar-with-dependencies.jar)
 
 ```
 ## Command
