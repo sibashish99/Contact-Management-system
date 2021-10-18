@@ -2,7 +2,7 @@
 
 ## CLone the Repository
 ```
-https://github.com/sibashish99/Contact-Management-system
+https://github.com/sibashish99/Contact-Management-system.git
 
 ```
 
